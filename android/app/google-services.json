@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "91132798327",
+    "firebase_url": "https://cropcycle-bb171.firebaseio.com",
+    "project_id": "cropcycle-bb171",
+    "storage_bucket": "cropcycle-bb171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91132798327:android:619cd3cc696f0638abed72",
+        "android_client_info": {
+          "package_name": "co.rian.upload_pic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91132798327-e6rl1ajlvg1irrserr7vu6aecehjmfbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.rian.upload_pic",
+            "certificate_hash": "eb70ac6672b64ca22e30389ebff68d5db5a618e7"
+          }
+        },
+        {
+          "client_id": "91132798327-3ichasn1v72eu11fbdp9160hl23tddhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHfWn10bG_Edpm1HMjKaWU3Nhc9oaI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91132798327-3ichasn1v72eu11fbdp9160hl23tddhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91132798327:android:bb4bbcbc4a36758eabed72",
+        "android_client_info": {
+          "package_name": "com.example.cropcycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91132798327-3ichasn1v72eu11fbdp9160hl23tddhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHfWn10bG_Edpm1HMjKaWU3Nhc9oaI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91132798327-3ichasn1v72eu11fbdp9160hl23tddhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
